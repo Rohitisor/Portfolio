@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c3d7be7e.css",
+    "main.js": "/portfolio/static/js/main.2d46fb7c.js",
+    "static/media/into-img.jpg": "/portfolio/static/media/into-img.b5a4dd4c17b21dbf891c.jpg",
+    "static/media/java.png": "/portfolio/static/media/java.aaaa73f637215f4d6333.png",
+    "static/media/database.png": "/portfolio/static/media/database.96af83e68e3b32fb2dd7.png",
+    "static/media/id-card.png": "/portfolio/static/media/id-card.c9de1ab7f4a0f5c5d080.png",
+    "static/media/relational.png": "/portfolio/static/media/relational.f80bdbcaf5552a5869e7.png",
+    "static/media/database (1).png": "/portfolio/static/media/database (1).1805c5830818dc61837b.png",
+    "static/media/messaging-app.png": "/portfolio/static/media/messaging-app.9730e277bf2d517a1baf.png",
+    "static/media/cloud-database.png": "/portfolio/static/media/cloud-database.a305e71593562bcf2a45.png",
+    "static/media/website.png": "/portfolio/static/media/website.8363a5d44fe6b8180fa0.png",
+    "static/media/suitcase.png": "/portfolio/static/media/suitcase.e14b0bb3d0624bcc8e9b.png",
+    "static/media/clones.png": "/portfolio/static/media/clones.473e3b2bcdd84c41a6eb.png",
+    "static/media/html-5.png": "/portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portfolio/index.html",
+    "main.c3d7be7e.css.map": "/portfolio/static/css/main.c3d7be7e.css.map",
+    "main.2d46fb7c.js.map": "/portfolio/static/js/main.2d46fb7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d7be7e.css",
+    "static/js/main.2d46fb7c.js"
+  ]
+}
